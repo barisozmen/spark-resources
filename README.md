@@ -30,6 +30,8 @@ Spark UI ([databricks blog](https://databricks.com/blog/2015/06/22/understanding
 
 Practical optimization ([databricks training](https://databricks.com/session_eu19/apache-spark-core-practical-optimization))
 
+Spark: The Definitive Guide Book ([Ch18, Monitoring and Debugging](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/ch18.html), [Ch19, Performance Tuning](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/ch19.html))
+
 Debugging and logging best practices ([blogpost](https://dzone.com/articles/talend-and-apache-spark-debugging-and-logging-best))
 
 ## RDD, DataFrame, Dataset APIs
