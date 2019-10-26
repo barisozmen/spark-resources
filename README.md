@@ -28,6 +28,8 @@ Spark UI ([databricks blog](https://databricks.com/blog/2015/06/22/understanding
 
 <img width="350" alt="Screen Shot 2019-10-26 at 11 06 20 AM" src="https://user-images.githubusercontent.com/14996155/67624013-b2711080-f7e0-11e9-8876-7b344a364fff.png">
 
+Practical optimization ([databricks training](https://databricks.com/session_eu19/apache-spark-core-practical-optimization))
+
 Debugging and logging best practices ([blogpost](https://dzone.com/articles/talend-and-apache-spark-debugging-and-logging-best))
 
 ## RDD, DataFrame, Dataset APIs
