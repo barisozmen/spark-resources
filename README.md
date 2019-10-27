@@ -8,7 +8,7 @@ Getting Started with Apache Spark 2.x (4 hour read) ([e-book](https://mapr.com/e
 
 ## Longer reads
 
-Masterin Apache Spark ([e-book](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/))
+Mastering Apache Spark ([e-book](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/))
 
 ## Tuning & Debugging
 
