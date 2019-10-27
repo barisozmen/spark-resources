@@ -19,7 +19,7 @@ Configuration parameters ([Spark docs](https://spark.apache.org/docs/latest/conf
   - In Spark UI, drill down to task page, sort tasks, examine "Erros" column
   - Reproduce errors
   - Examine dataset partitioning 
-      - large data + too few partitions (indicated by "you dont have a lot of tasks, but each takes a lot of time")
+      - large data + too few partitions (symptom: there are few tasks, but each takes a lot of time)
       - small data + too many parititions (overhead of many partitions can slow down the job)
       - spark.sql.shuffle.partitions
   - Beware bad inputs
