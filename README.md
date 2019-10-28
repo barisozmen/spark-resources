@@ -6,6 +6,8 @@ Spark 101 (14 min read) ([blogpost](https://mapr.com/blog/spark-101-what-it-what
 
 Getting Started with Apache Spark 2.x (4 hour read) ([e-book](https://mapr.com/ebook/getting-started-with-apache-spark-v2/assets/Spark2018eBook.pdf))
 
+Advanced Data Science On Spark (2 hour watch) ([Spark Summit Talk](https://www.youtube.com/watch?v=hde53g-VXdg&feature=youtu.be&list=PL-x35fyliRwioDix9XjD3HptH8ro55SuB&t=5602)) ([slides](http://stanford.edu/~rezab/slides/sparksummit2015/))
+
 ## Longer reads
 
 Mastering Apache Spark ([e-book](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/))
